@@ -10,7 +10,6 @@ bin/gsiff_daemon
 etc/permissions/com.qualcomm.location.xml
 vendor/lib/hw/flp.default.so
 lib/libloc_api_v02.so
-vendor/lib/libalarmservice_jni.so
 vendor/lib/libgeofence.so
 vendor/lib/libizat_core.so
 vendor/lib/liblbs_core.so
@@ -59,4 +58,3 @@ lib/libcfiril.so
 vendor/lib/libril-qcril-hook-oem.so
 vendor/lib/libconfigdb.so
 vendor/lib/libxml.so
-vendor/lib/libtime_genoff.so
